@@ -58,7 +58,7 @@ The column headers of the files were reformatted such that they were clear and r
 [76] "freqBodyGyroMagMean"         "freqBodyGyroMagStd"          "freqBodyGyroMagMeanFreq"    
 [79] "freqBodyGyroJerkMagMean"     "freqBodyGyroJerkMagStd"      "freqBodyGyroJerkMagMeanFreq"
 ```
-##TidyDataSet2.csv
+##TidyDataSet2.txt
 
 This is an independent tidy data set with the average of each variable for each activity and each subject.
 
