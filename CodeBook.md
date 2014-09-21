@@ -16,6 +16,20 @@ for generating the training data and 30% the test data.
 
 ##TidyDataSet1.csv
 
+This data set contains 10,299 observations of 81 variables.
+
+The activites observed over time are:
+
+*WALKING, 
+*WALKING_UPSTAIRS, 
+*WALKING_DOWNSTAIRS, 
+*SITTING, 
+*STANDING, 
+*LAYING
+
+The column headers of the files were reformatted such that they were clear and readable. Here is the list of all column headers
+
+```
  [1] "subject"                     "activity"                    "timeBodyAccMeanX"           
  [4] "timeBodyAccMeanY"            "timeBodyAccMeanZ"            "timeBodyAccStdX"            
  [7] "timeBodyAccStdY"             "timeBodyAccStdZ"             "timeGravityAccMeanX"        
@@ -43,5 +57,9 @@ for generating the training data and 30% the test data.
 [73] "freqBodyAccJerkMagMean"      "freqBodyAccJerkMagStd"       "freqBodyAccJerkMagMeanFreq" 
 [76] "freqBodyGyroMagMean"         "freqBodyGyroMagStd"          "freqBodyGyroMagMeanFreq"    
 [79] "freqBodyGyroJerkMagMean"     "freqBodyGyroJerkMagStd"      "freqBodyGyroJerkMagMeanFreq"
-
+```
 ##TidyDataSet2.csv
+
+This is an independent tidy data set with the average of each variable for each activity and each subject.
+
+It is derived from TidyDataSet2.csv and it shares the same column variable names.
