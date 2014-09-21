@@ -24,13 +24,13 @@ You need to have the dependences installed and loaded for the script to run.
 
 After the script is sourced, the following CSVs would be outputted to your working directory.
 
-`TidyDataSet1.csv` and `TidyDataSet2.csv`
+`TidyDataSet1.csv` and `TidyDataSet2.txt`
 
 ##Output Files
 
-TidyDataSet1.csv and TidyDataSet2.csv and are the output files from this script.
+TidyDataSet1.csv and TidyDataSet2.txt and are the output files from this script.
 
-TidyDataSet2.csv is an independent tidy data set with the average of each variable for each activity and each subject from TidyDataSet1.csv
+TidyDataSet2.txt is an independent tidy data set with the average of each variable for each activity and each subject from TidyDataSet1.csv
 
 ##Code book
 
