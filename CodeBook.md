@@ -20,12 +20,12 @@ This data set contains 10,299 observations of 81 variables.
 
 The activites observed over time are:
 
-*WALKING, 
-*WALKING_UPSTAIRS, 
-*WALKING_DOWNSTAIRS, 
-*SITTING, 
-*STANDING, 
-*LAYING
+* WALKING, 
+* WALKING_UPSTAIRS, 
+* WALKING_DOWNSTAIRS, 
+* SITTING, 
+* STANDING, 
+* LAYING
 
 The column headers of the files were reformatted such that they were clear and readable. Here is the list of all column headers
 
