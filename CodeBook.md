@@ -63,3 +63,5 @@ The column headers of the files were reformatted such that they were clear and r
 This is an independent tidy data set with the average of each variable for each activity and each subject.
 
 It is derived from TidyDataSet2.csv and it shares the same column variable names.
+
+It contains 180 observations of 81 variables.
