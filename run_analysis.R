@@ -84,4 +84,4 @@ tidyDataSet2 <- getTidyDataSet2(tidyDataSet1)
 
 #Write out tidyDataSet1 and tidyDataSet2 to the working directory
 write.csv(tidyDataSet1, file = "TidyDataSet1.csv")
-write.csv(tidyDataSet2, file = "TidyDataSet2.csv")
+write.table(tidyDataSet2, file = "TidyDataSet2.txt", row.names = FALSE)
